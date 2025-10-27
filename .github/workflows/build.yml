@@ -4,7 +4,7 @@ on:
 # Remove or comment out the 'push' event if you want purely manual triggering.
 # If you want both manual and push triggers, keep the 'push' section as well.
 #  push:
-#    branches: [ main ]
+##    branches: [ main ]
   pull_request:
     branches: [ main ]
     
